@@ -1,7 +1,7 @@
 ## Hi there! This is Bokyung Kim 👋
-###
-#### 👩🏻‍💻 Major in Computer Science & Engineering at Ewha Univ.
+#### 👩🏻‍💻 Majoring Computer Science & Engineering at Ewha Univ.
 #### 📚 Currently learning in 42Seoul
+---
 [![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/bokim)](https://github.com/JaeSeoKim/badge42)
 
 
