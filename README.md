@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋 This is Bokyung Kim
+###
+### 📚 I'm currently learning in 42Seoul
+[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/bokim)](https://github.com/JaeSeoKim/badge42)
+
 
 <!--
 **bokyungkim/bokyungkim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
