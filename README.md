@@ -4,8 +4,7 @@
   
   <h3>🌱</h3>
 <br/><br/>
-  
-[![42](https://img.shields.io/badge/seoul-000000?style=flat-square&logo=42)](https://42seoul.kr/seoul42/main/view)
+ 
 <a href="https://velog.io/@bokyungkim" target="_blank"><img src="https://img.shields.io/badge/velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
 <a href="mailto:sensepower98@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/bovocado" target="_blank"><img src="https://img.shields.io/badge/IG-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>  
