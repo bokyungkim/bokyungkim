@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&fontSize=70&fontColor=373737)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&fontSize=70&fontColor=373737)
   
   <h3>🌱</h3>
 <br/><br/>
