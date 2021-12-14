@@ -1,8 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&fontSize=70&fontColor=373737)
-  
-  <h3>🌱</h3>
+![header](https://capsule-render.vercel.app/api?type=transparent&height=200&text=♩♪♫♬♩♪♫♬♩♪♫♬&fontColor=F7DB4F&rotate=8&fontAlign=70)
 <br/><br/>
  
 <a href="https://velog.io/@bokyungkim" target="_blank"><img src="https://img.shields.io/badge/velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
