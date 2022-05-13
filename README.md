@@ -4,8 +4,6 @@
 <a href="mailto:sensepower98@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/bovocado" target="_blank"><img src="https://img.shields.io/badge/IG-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>    
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bokyungkim&hide=contribs,issues,prs&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-  
-[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/bokim)](https://github.com/JaeSeoKim/badge42)
 
 </div>
 
